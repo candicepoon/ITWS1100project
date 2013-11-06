@@ -1,0 +1,37 @@
+{
+	"problems":{
+		"iOS":{
+			
+			"Device is frozen" : "HTML code",
+			"Won't connect to wifi": "HTML code"
+
+		},
+
+		"Android":{
+			
+			"Camera won't take photos": "HTML code",
+			"How to do a factory restart" : "HTML code",
+			"Battery life is short" : "HTML code",
+			"How to update the OS" : "HTML code"
+		},
+
+		"Windows":{
+			"Computer is slow": "HTML code",
+			"Running very warm" : "HTML code",
+			"Update Windows" : "HTML code",
+			"Possible virus" : "HTML code"
+		}, 
+
+		"Mac OSX" : {
+			"Wont't connect to the internet" : "HTML code"
+		},
+
+		"Chrome" : {
+			"Youtube videos are jittery" : "HTML code"
+		}
+
+
+
+
+	}
+}
