@@ -1,0 +1,21 @@
+body {
+	background-color: #FFFCC3;
+}
+
+#largeRedText {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -50px;
+	margin-left: -100px;
+}
+
+#largeRedText h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 40px;
+	color: red;
+}
+
+.picker {
+	font-family: Helvetica;
+}
