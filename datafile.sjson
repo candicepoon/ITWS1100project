@@ -1,0 +1,58 @@
+{
+	"problems": [
+		{
+			"platform" : "iOS",
+			"problem" : "Device is frozen", 
+			"solution" : ["Hold power button and home button at the same time", "Wait for Apple logo to appear, phone will restart"]
+		}, 
+
+		{
+			"platform" :"iOS",
+			"problem" : "Will not connect to Wifi",
+			"solution" : ["Check to make sure you are in proximity to a wireless network", "Click settings", "Check to see wifi is on"]
+		},
+		 
+
+		{
+			"platform" : "Android",
+			"problem" : "Battery life is short", 
+			"solution" : ["Go into settings, click on About Phone, then battery use", "Uninstall any apps using significant battery life"]
+		},
+
+		{
+			"platform" : "Android",
+			"problem" : "How to update the OS", 
+			"solution" : ["Go to settings, then About Phone", "Click on System Updates, then update"]
+		}, 
+
+		{
+			"platform" : "Windows",
+			"problem" : "Computer is slow", 
+			"solution" : ["Try restarting your computer by clicking on the Start button in the lower left corner of the screen, then clicking the small arrow next to “Shut down.", 
+			" If it is still slow, find out what programs are running in the background using the task manager. Right-click the taskbar and click “Start Task Manager,” or press Ctrl+Alt+Delete and click “Start Task Manager.” In the Applications tab, you can click on running programs that you are not using and click the “End Task” button.", " Another option is to clear some of your computer’s memory space: Click Start>All Programs>Accessories>System Tools>Disk Cleanup. Check all of the boxes representing the files you want to delete and click OK.", "Uninstall any programs/features you do not need. Click Start>Control Panel>Programs>Programs and Features. Right-click on any programs you do not need and click Uninstall.", "Defragment your hard drive. Click Start>All Programs>Accessories>System Tools>Disk Defragmenter. Click on the disk you would like to defragment and click the “Defragment Disk” button. "]
+
+		}, 
+
+		{
+			"platform" : "Windows",
+			"problem" : "Computer is running very warm", 
+			"solution" : ["Shut down your computer if it seems to be overheating and give it some time to cool down.", "Make sure your computer’s ventilation is clean and unobstructed."]
+		}, 
+
+		{
+			"platform" : "Windows", 
+			"problem" : "How to update the OS", 
+			"solution" : ["Go to Start>All Programs>Windows Update.", "Check the boxes of the updates you would like to install, then click OK. You may need to restart your computer after the update is complete.", ]
+		},
+
+		{
+			"platform" : "Chrome", 
+			"problem" : "Youtube videos are jittery", 
+			"solution" : ["Empty your cache. Click on the menu in the upper right corner, then click Tools. Choose “Clear browsing data.”", "Check boxes for Clear browsing history, empty cache, and delete cookies"]
+
+		}
+
+
+
+	]
+}
